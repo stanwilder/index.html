@@ -25,7 +25,7 @@
     
         <li><img src="https://i.etsystatic.com/24364220/r/il/a63b54/2573069114/il_fullxfull.2573069114_qtvh.jpg"
             alt="BIG VENUSAUR. Suuuuuper Mint"></li>
-            <p> I wanna be the very best
+            <p>I wanna be the very best
                 Like no one ever was
                 To catch them is my real test
                 To train them is my cause
