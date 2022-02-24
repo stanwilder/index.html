@@ -1,0 +1,32 @@
+body{
+    background: url(https://www.gotokyo.org/en/destinations/southern-tokyo/images/499_0354_2.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: #a7055b;
+    font-size: 70px;
+}
+ul{
+    text-align: center;
+}
+img{
+    width: 200px;
+
+}
+p{
+    color: rgba(255,100,0,1);
+    font-size: 30px;
+}
+header{
+    text-align: center;
+    font-size: 20px;
+}
+main{
+    background-color: rgba(0,0,0,0.3);
+    background-size: cover;
+}
+footer{
+    color: rgba(255,100,0,1);
+    font-size: 30px;
+}
